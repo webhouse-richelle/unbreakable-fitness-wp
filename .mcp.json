@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "elementor-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["c:/Users/riche/Downloads/unbreakable-gym/emcp-proxy.mjs"],
+      "env": {
+        "WP_URL": "https://syn04ae.syd5.hostyourservices.net/~unbreaka/",
+        "WP_USERNAME": "admin_6qxcmjpy",
+        "WP_APP_PASSWORD": "lkpm OYSl nYjf 4S0E vGBH SgyR",
+        "MCP_PROTOCOL_VERSION": "2024-11-05",
+        "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+      }
+    }
+  }
+}
